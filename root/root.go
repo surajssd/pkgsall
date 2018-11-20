@@ -17,4 +17,5 @@ func AddValue(i int) {
 
 func Noop() {
 	fmt.Println("inside noop")
+	fmt.Println("values: ", values)
 }

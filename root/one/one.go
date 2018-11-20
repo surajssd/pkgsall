@@ -8,5 +8,5 @@ import (
 
 func init() {
 	fmt.Println("inside one init")
-	root.AddValue(1)
+	root.AddValue(-1)
 }
